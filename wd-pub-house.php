@@ -82,4 +82,4 @@ class WD_Publishing_House {
 	}
 }
 
-add_action( 'plugins_loaded', array( 'WD_Publishing_House', 'instance' ) );
+return WD_Publishing_House::instance();
