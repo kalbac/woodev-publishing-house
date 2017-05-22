@@ -4,7 +4,7 @@
  * Plugin Name: Publishing House
  * Plugin URI: https://github.com/kalbac/woodev-publishing-house/
  * Description: Test task.
- * Version: 1.0
+ * Version: 1.1
  * Author URI: https://woodev.ru/
  * Requires at least: 4.4
  * Tested up to: 4.7
